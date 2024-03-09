@@ -1,0 +1,39 @@
+2024-02-05 18:04:58,110 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-02-05 18:04:59,653 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-02-05 18:05:00,203 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Register Successed .
+2024-02-05 18:05:02,154 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Name Krishna Pada Kar Successed .
+2024-02-05 18:05:02,477 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Email demo.purpose.free@gmail.com Successed .
+2024-02-05 18:05:13,180 +0530 [TestNG-tests-1] ERROR (LoggerHandler.java:42) - Date of Birth choosen failed .
+2024-02-05 18:05:33,353 +0530 [TestNG-tests-1] ERROR (LoggerHandler.java:42) - Choose State failed .
+2024-02-05 18:05:53,499 +0530 [TestNG-tests-1] ERROR (LoggerHandler.java:42) - Choose University failed .
+2024-02-05 18:06:13,591 +0530 [TestNG-tests-1] ERROR (LoggerHandler.java:42) - Choose Institution failed .
+2024-02-05 18:06:33,810 +0530 [TestNG-tests-1] ERROR (LoggerHandler.java:42) - Choose Department failed .
+2024-02-05 18:06:53,942 +0530 [TestNG-tests-1] ERROR (LoggerHandler.java:42) - Choose Degree failed .
+2024-02-05 18:07:14,032 +0530 [TestNG-tests-1] ERROR (LoggerHandler.java:42) - Choose Year of Study failed .
+2024-02-05 18:07:34,119 +0530 [TestNG-tests-1] ERROR (LoggerHandler.java:42) - Choose Semester failed .
+2024-02-05 18:07:54,224 +0530 [TestNG-tests-1] ERROR (LoggerHandler.java:42) - Enter Registration Number failed .
+2024-02-05 18:08:14,317 +0530 [TestNG-tests-1] ERROR (LoggerHandler.java:42) - Enter Roll Number failed .
+2024-02-05 18:08:34,419 +0530 [TestNG-tests-1] ERROR (LoggerHandler.java:42) - Choose District failed .
+2024-02-05 18:08:54,531 +0530 [TestNG-tests-1] ERROR (LoggerHandler.java:42) - Enter Police Station failed .
+2024-02-05 18:09:14,663 +0530 [TestNG-tests-1] ERROR (LoggerHandler.java:42) - Enter Post Office failed .
+2024-02-05 18:09:34,766 +0530 [TestNG-tests-1] ERROR (LoggerHandler.java:42) - Enter Pin Code failed .
+2024-02-05 18:09:54,885 +0530 [TestNG-tests-1] ERROR (LoggerHandler.java:42) - Enter Address failed .
+2024-02-05 18:10:15,033 +0530 [TestNG-tests-1] ERROR (LoggerHandler.java:42) - Enter User Name failed .
+2024-02-05 18:10:35,101 +0530 [TestNG-tests-1] ERROR (LoggerHandler.java:42) - Enter Password failed .
+2024-02-05 18:10:55,184 +0530 [TestNG-tests-1] ERROR (LoggerHandler.java:42) - Enter Re-Password failed .
+2024-02-05 18:11:15,248 +0530 [TestNG-tests-1] ERROR (LoggerHandler.java:42) - Click Terms and Condition failed .
+2024-02-05 18:11:35,331 +0530 [TestNG-tests-1] ERROR (LoggerHandler.java:42) - Data Not Cleared .
+2024-02-05 18:11:36,764 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-02-05 18:11:37,192 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-02-05 18:11:37,463 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Login Successed .
+2024-02-05 18:11:37,634 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Username Successed .
+2024-02-05 18:11:37,778 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Password Successed .
+2024-02-05 18:11:37,847 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Submit Successed .
+2024-02-05 18:11:38,450 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Logout Successed.
+2024-02-05 18:11:41,493 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Logout Successed .
+2024-02-05 18:11:42,777 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-02-05 18:11:43,326 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-02-05 18:11:43,612 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Login Successed .
+2024-02-05 18:11:43,796 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Username Successed .
+2024-02-05 18:11:43,976 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Password Successed .
+2024-02-05 18:11:44,051 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Submit Successed .

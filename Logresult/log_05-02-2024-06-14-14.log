@@ -1,0 +1,23 @@
+2024-02-05 18:14:16,520 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-02-05 18:14:16,924 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-02-05 18:14:17,241 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Login Successed .
+2024-02-05 18:14:18,511 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Username Successed .
+2024-02-05 18:14:18,694 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Password Successed .
+2024-02-05 18:14:18,780 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Submit Successed .
+2024-02-05 18:14:18,896 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - SYN Id is 62
+2024-02-05 18:14:18,946 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Name is Krishna Pada Kar
+2024-02-05 18:14:18,992 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Email Id is demo.purpose.free@gmail.com
+2024-02-05 18:14:19,044 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Mobile Number is 6296395758
+2024-02-05 18:14:19,092 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Date of Birth is 2000-08-23T00:00:00.000+00:00
+2024-02-05 18:14:19,141 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - University is Maulana Abul Kalam Azad University of Technology
+2024-02-05 18:14:19,189 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Institution is Govt. College Of Engineering & Textile Technology, Serampore
+2024-02-05 18:14:19,235 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Degree is Bachelor of Technology
+2024-02-05 18:14:19,280 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Department is Information Technology
+2024-02-05 18:14:19,325 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Semester is 8th Semester
+2024-02-05 18:14:19,374 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Registration No is 181100110059
+2024-02-05 18:14:19,416 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Roll No is 11000218049
+2024-02-05 18:14:19,461 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - State is West Bengal
+2024-02-05 18:14:19,505 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - District is Bankura
+2024-02-05 18:14:19,549 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Police Station is Chhatna
+2024-02-05 18:14:19,592 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Pin Code is 722132
+2024-02-05 18:14:19,634 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Address is C/O - Uttam Kar , Tamboli Para , Karrah

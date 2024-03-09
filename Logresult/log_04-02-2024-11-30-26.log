@@ -1,0 +1,8 @@
+2024-02-04 23:30:29,208 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-02-04 23:30:30,212 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-02-04 23:30:30,588 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Login Successed .
+2024-02-04 23:30:31,814 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Username Successed .
+2024-02-04 23:30:32,013 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Password Successed .
+2024-02-04 23:30:32,110 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Submit Successed .
+2024-02-04 23:30:32,799 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Logout Successed.
+2024-02-04 23:30:35,872 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Logout Successed .

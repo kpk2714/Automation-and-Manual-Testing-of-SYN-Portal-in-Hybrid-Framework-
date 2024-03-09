@@ -1,0 +1,71 @@
+2024-02-04 23:08:43,173 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-02-04 23:08:43,673 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-02-04 23:08:45,838 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Landing Page is Home Page
+2024-02-04 23:08:47,236 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-02-04 23:08:47,684 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-02-04 23:08:48,069 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Username kpk2714 Successed .
+2024-02-04 23:08:48,206 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Mobile 8016199829 Successed .
+2024-02-04 23:08:48,388 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Pincode 722132 Successed .
+2024-02-04 23:08:48,458 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - User Registered and Name is Krishna Pada Kar
+2024-02-04 23:08:49,850 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-02-04 23:08:50,258 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-02-04 23:08:50,612 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Register Successed .
+2024-02-04 23:08:50,854 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Name Krishna Pada Kar Successed .
+2024-02-04 23:08:51,086 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Email demo.purpose.free@gmail.com Successed .
+2024-02-04 23:08:51,171 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Send OTP Successed .
+2024-02-04 23:09:02,246 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Email Verification OTP Successed .
+2024-02-04 23:09:02,336 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Submit in Email verification Successed .
+2024-02-04 23:09:02,441 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Email Id Verification Successed .
+2024-02-04 23:09:02,612 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Mobile 6296395758E9 Successed .
+2024-02-04 23:09:02,697 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Mobile Send OTP Successed .
+2024-02-04 23:09:10,583 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Mobile Verification OTP Successed .
+2024-02-04 23:09:10,665 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Submit in Mobile verification Successed .
+2024-02-04 23:09:10,862 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Mobile 6296395758E9 Successed .
+2024-02-04 23:09:19,800 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Date of Birth choosen successed .
+2024-02-04 23:09:19,995 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Choose State West Bengal successed .
+2024-02-04 23:09:20,142 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Choose University Maulana Abul Kalam Azad University of Technology successed .
+2024-02-04 23:09:20,304 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Choose Institution Govt. College Of Engineering & Textile Technology, Serampore successed .
+2024-02-04 23:09:20,602 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Choose Department Information Technology successed .
+2024-02-04 23:09:20,894 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Choose Degree Bachelor of Technology successed .
+2024-02-04 23:09:21,062 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Choose Year of Study 4th Year successed .
+2024-02-04 23:09:21,248 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Choose Semester 8th Semester successed .
+2024-02-04 23:09:21,464 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Registration Number 181100110059 successed .
+2024-02-04 23:09:21,620 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Roll Number 11000218049 successed .
+2024-02-04 23:09:21,750 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Choose District Bankura successed .
+2024-02-04 23:09:21,923 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Police Station Chhatna successed .
+2024-02-04 23:09:22,107 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Post Office Karrah successed .
+2024-02-04 23:09:22,272 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Pin Code 722132 successed .
+2024-02-04 23:09:22,483 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Address C/O - Uttam Kar , Tamboli Para , Karrah successed .
+2024-02-04 23:09:22,660 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter User Name demo2714 successed .
+2024-02-04 23:09:22,836 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Password Demo@1234567 successed .
+2024-02-04 23:09:23,005 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Re-Password Demo@1234567 successed .
+2024-02-04 23:09:23,107 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click Terms and Condition successed .
+2024-02-04 23:09:23,201 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Submit successed .
+2024-02-04 23:09:39,767 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Registration Successfully Completed .
+2024-02-04 23:09:41,132 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-02-04 23:09:41,761 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-02-04 23:09:42,023 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Login Successed .
+2024-02-04 23:09:42,216 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Username Successed .
+2024-02-04 23:09:42,413 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Password Successed .
+2024-02-04 23:09:42,517 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Submit Successed .
+2024-02-04 23:09:42,647 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Login Successed and This is Dashboard Page
+2024-02-04 23:09:43,883 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-02-04 23:09:44,648 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-02-04 23:09:44,938 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Login Successed .
+2024-02-04 23:09:45,056 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Forgot Password Successed .
+2024-02-04 23:09:45,247 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Email Id Successed .
+2024-02-04 23:09:45,333 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Send OTP Successed .
+2024-02-04 23:09:54,948 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Email Verification OTP Successed .
+2024-02-04 23:09:55,027 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Submit Successed .
+2024-02-04 23:09:59,511 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter New Password Successed.
+2024-02-04 23:09:59,671 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Confirm Password Successed.
+2024-02-04 23:09:59,763 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Submit Successed.
+2024-02-04 23:10:02,800 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Password Chnaged Successfully
+2024-02-04 23:10:04,127 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-02-04 23:10:11,001 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-02-04 23:10:11,302 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Contact Successed .
+2024-02-04 23:10:11,485 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Name Successed .
+2024-02-04 23:10:11,664 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Email Successed .
+2024-02-04 23:10:11,948 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Content Successed .
+2024-02-04 23:10:12,056 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Send Message Successed .
+2024-02-04 23:10:12,999 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Email Sent Successfully
